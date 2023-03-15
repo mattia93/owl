@@ -1,2 +1,2 @@
 # owl
-Deep Learning project on autoencoders
+Deep Learning student's project on autoencoders
